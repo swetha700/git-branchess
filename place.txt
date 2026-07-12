@@ -1,5 +1,5 @@
 place : chennai
 
-name : chennai
-
 name :  swetha
+
+age :25
